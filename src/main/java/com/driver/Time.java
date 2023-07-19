@@ -16,5 +16,6 @@ public class Time {
         if(MM.length()==1) MM='0'+MM;
         HH=HH+':';
         return HH+MM;
+        ///sdjfa;lsdkjf
     }
 }
